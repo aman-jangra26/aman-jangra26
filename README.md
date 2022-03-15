@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aman-jangra26
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Aman.
+- 👀 I’m interested in  Coding
 - 🌱 I’m currently learning C++ /Python
 - 💞️ I’m looking to collaborate on Question based on Programming
-- 📫 Email me - aj2003hr@gmail.com
+- 📫 Email me - 26.amanjangra@gmail.com
 
 <!---
 aman-jangra26/aman-jangra26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
