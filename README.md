@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://www.codechef.com/users/aman_j26"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="aman_j26" /> </a>
   <a href="https://auth.geeksforgeeks.org/user/26amanjangra"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="AmanJangra" /> </a>
    <a href="https://www.hackerrank.com/amannjangra"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="amanjangra26" /> </a>
+  <a href="https://www.hackerrank.com/amannjangra"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="amanjangra26" /> </a>
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/@_amannjangra-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amannjangra)  [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jangra-06b66b1b7/)
